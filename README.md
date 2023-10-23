@@ -1,8 +1,8 @@
 # ALX Backend
 
-[![Repo Size](https://img.shields.io/github/repo-size/solomonkassa/ALX-Backend)](https://github.com/solomonkassa/ALX-Backend)
+[![Repo Size](https://img.shields.io/github/repo-size/solomonkassa/ALX-Backend)](https://github.com/solomonkassa/alx-backend)
 [![Pep8 Style](https://img.shields.io/badge/code%20style-pep8-brightgreen)](https://www.python.org/dev/peps/pep-0008/)
-[![Latest Commit](https://img.shields.io/github/last-commit/solomonkassa/ALX-Backend)](https://github.com/solomonkassa/ALX-Backend/commits)
+[![Latest Commit](https://img.shields.io/github/last-commit/solomonkassa/ALX-Backend)](https://github.com/solomonkassa/alx-backend/commits)
 
 Explore projects for mastering advanced backend development concepts.
 
