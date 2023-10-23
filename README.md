@@ -22,9 +22,7 @@ Use the following steps to get started:
 ```bash
 git clone https://github.com/solomonkassa/ALX-Backend.git
 cd ALX-Backend
-# Add installation instructions here
+```
 
-In this example, we used GitHub Shields to display dynamic data such as the repository size, code style, and the latest commit. These shields automatically update as you make changes to your repository.
 
-For more advanced functionality, consider using GitHub Actions or other CI/CD tools to automatically generate and update sections of your README based on project data. This may involve dynamically generating documentation, charts, or statistics, depending on your specific project needs.
 
